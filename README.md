@@ -13,6 +13,13 @@ This is our CS370 project for the Fall 2020 semester. Welcome to **Amiga**, a me
 * Open this link and scan the QR code after downloading the Expo app: https://expo.io/@xelarock/projects/amiga. 
 * Alternatively, you can clone this repository and use the "npm ci && npm start" command from your terminal. Note that you will need to have [Node.js downloaded](https://nodejs.org/en/download/ "Node.js downloaded").
 
+### Screenshots
+  - <img src=https://user-images.githubusercontent.com/11233666/126411671-8b3bf517-f45b-49f5-b9e4-0c532948d628.png width=200>
+  - <img src=https://user-images.githubusercontent.com/11233666/126411555-10f0dfab-16d8-4ee1-adc0-5faed7f8eeac.png width=200>
+  - <img src=https://user-images.githubusercontent.com/11233666/126411442-90146033-efa6-4834-b8fc-e0d01b64c790.png width=200>
+  - <img src=https://user-images.githubusercontent.com/11233666/126411297-bb39c248-73ec-42cf-a466-3e2061696aab.png width=200> 
+
+
 ### _Project Purpose_
 
 With many of our classmates, friends, and loved ones being worn thin by the ever-increasing pressures of school, work, and society, it is more important than ever to keep an eye on our mental well-being. 
